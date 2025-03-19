@@ -1,3 +1,4 @@
+<font color=red>We have currently released the code for the core algorithm, and the entire project will be made available soon. </font>
 ---
 
 # 🚀 Dynamic Task Assignment and Single Unmanned Sanitation Vehicle (USV) Path Planning 🔍
